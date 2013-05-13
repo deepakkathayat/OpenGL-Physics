@@ -1,0 +1,19 @@
+# State of the World
+18.000000 12.000000 #Width and Height of the World
+2 #Number of projectors
+-1.000000 -2.400000 1.000000 -2.400000 #Project 1 line: x1 y1 x2 y2
+1.000000 #Distance to the point light source
+12 #Number of pixels in the Projector
+-3.999999 -3.200000 -2.467911 -1.914426 #Project 2 line: x1 y1 x2 y2
+1.500000 #Distance to the point light source
+10 #Number of pixels in the Projector
+3 #Number of Blocks
+-2.500000 5.000000 2.500000 5.000000 #Block 1: x1 y1 x2 y2
+3.000000 4.000000 4.500000 1.000000 #Block 2: x1 y1 x2 y2
+-4.299998 1.200000 -3.615958 3.079382 #Block 3: x1 y1 x2 y2
+5 #Number of Mirrors
+-2.100000 1.500000 -1.016650 2.409039 #Mirror 1: x1 y1 x2 y2
+3.599999 0.200000 2.452849 -1.438303 #Mirror 2: x1 y1 x2 y2
+1.300000 -3.299999 3.269614 -2.952703 #Mirror 3: x1 y1 x2 y2
+-6.299996 0.000000 -4.299998 0.000000 #Mirror 4: x1 y1 x2 y2
+-5.199997 -3.599999 -7.199992 -3.599997 #Mirror 5: x1 y1 x2 y2
